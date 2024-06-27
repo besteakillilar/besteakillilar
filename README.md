@@ -7,13 +7,13 @@
 <h3 align="center">A passionate developer from Türkiye</h3>
 
 
-- 🔭 I’m currently working on **SEO**
+                                                  - 🔭 I’m currently working on **SEO**
 
-- 🌱 I’m currently learning **Python**
+                                                  - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **C#**
+                                                  - 💬 Ask me about **C#**
 
-- 📫 How to reach me **besteakillilar@gmail.com**
+                                                  - 📫 How to reach me **besteakillilar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
