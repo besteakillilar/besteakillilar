@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Beste Akıllılar</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
 
